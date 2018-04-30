@@ -1,0 +1,103 @@
+Matthew Jones
+=================
+
+Product Engineer
+=================
+
+Email: matt@hew.tools
+
+Web: https://hew.tools
+
+Front-end and product-focused software engineer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.
+
+## SKILLS
+
+  - API: REST GraphQL Socket 
+  - Architecture: MERN MVC Serverless 
+  - Cloud: AWS Netlify Digital Ocean S3 
+  - CSS: Atomic Bootstrap CSS-in-JS Modules PostCSS Sass 
+  - Database: NeDB MySQL PostgreSQL 
+  - JavaScript: Feathers Node.js jQuery React React Native Socket.io Salesforce 
+  - Project: Agile Git GitHub 
+  - Ruby: Rails Salesforce 
+  - OCaml: React Reason bs-express 
+  - Web: JavaScript HTML5 CSS DOM 
+
+## EMPLOYMENT
+
+### *CTO*, [Protohack / Startup League](https://protohack.com) (2018-01 — Present)
+
+CTO of two education companies, ProtoHack and Startup League. Both businesses are focused on training high school students to become better problem solvers and finders. The latter business is technical product: a real-time mobile game where high schools and students compete in problem-finding exercises.
+  - Early-stage startup from NYU's StartED Incubator (2017).
+  - Technical lead and (currently) sole engineer.
+  - A real-time mobile game.
+  - Tech stack includes: Node.js, Socket.io, and React Native.
+
+### *Product Engineer*, [Klue](https://klue.com) (2017-09 — 2018-02)
+
+Early-stage company; full-stack role that involved wearing many hats: design, UX.
+  - Implemented various client-facing product features.
+  - Primary engineer responsible for integrating and building with Salesforce.
+  - Lead the transition from the Browserify to Webpack.
+  - Integrated/introduced Jest test runner; unit testing with Airbnb's Enzyme unit testing framework.
+
+### *Front End Developer*, [Dead Famous](https://deadfamous.ca) (2015-05 — 2016-06)
+
+Creative web design and development for an advertising/digital agency. Emphasis on Javascript-powered animations and dynamic web experiences.
+  - Experience building high performance web apps, websites, and static pages using React.
+  - Pushed the boundaries of performance, theme architecture, and client/user expectation
+  - Basic iOS app experience with React Native.
+
+### *Digital Marketer*, Cedars Online (2013-04 — 2015-05)
+
+Search engine optimization and content marketing for the gaming industry.
+  - Primary copywriter on email marketing campaigns netting millions in revenue.
+  - Heavy emphasis on technical ability and knowledge of web technology (hacks).
+  - Proven and repeatable search engine optimization success for valuable keywords.
+  - Conversion rate optimization for landing pages receiving 30k+ monthly visits.
+  - Solo designed and built many websites.
+
+### *Copywriter*, [Teach Away](http://www.teachaway.com) (2012-04 — 2013-04)
+
+Copywriter and digital marketer with a focus on international audiences.
+  - Prolific blogger and content marketing strategist.
+  - Web development for teachaway.com and satellite properties.
+  - Landing page conversion rate optimization and search engine optimization.
+  - Responsible for rapid growth on Facebook by utilizing 'content gates'.
+
+### *Copywriter*, [First Pet Naturals](http://www.1stpetnaturals.com) (2011-11 — 2012-04)
+
+Copywriter in a technical role, helping to build out the emails and webpages.
+  - Lead copywriting for blogs, long form content, and press releases.
+  - Basic web development for website, blog, and HTML newsletters/emails.
+  - Proven sucess with search engine marketing and optimization campaigns.
+
+
+## EDUCATION
+
+### [Dalhousie University](https://www.dalhousie.ca/) (2005-01 — 2009-01)
+
+
+
+### [UBC](https://ubc.ca) (2013-01)
+
+
+
+
+## AFFILIATION
+
+### *Volunteer*, [Leadies Learning Code](http://ladieslearningcode.com) (2015-01 — Present)
+
+Digital Literacy for Women and Youth. Teaching coding and web technology.
+
+
+
+
+
+
+
+
+
+
+
+

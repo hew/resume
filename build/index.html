@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Matthew Jones</title>
+        <style>
+            /* An empty CSS file. */
+            
+            @import url('https://cdnjs.cloudflare.com/ajax/libs/basscss/8.0.4/css/basscss.min.css');
+            @import url('https://cdn.rawgit.com/mrmrs/type.css/7917af33/type.css');
+            
+            :root {
+              --purple: rgb(154, 103, 225);
+              --gray: #172727;
+              --gray-dark: #0e0e0e;
+            }
+            
+            
+            html {
+              box-sizing: border-box;
+              line-height: 1.3;
+              font-size: 16px;
+              font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+                'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Arial',
+                sans-serif;
+                color: var(--gray);
+            }
+            
+            h1, h2, h3, h4, h5, p, ul {
+              margin: 0;
+            }
+            
+            a {
+              color: #000;
+              text-decoration: none;
+              border-bottom: 3px solid #dfe2dd;
+            }
+            
+            /* Hack because I can't seem to find where these default content templates (which have an <hr>) are coming from */
+            hr {
+              width: 0%;
+              margin-top: 0.5em 0;
+              height: 0;
+              border: 0;
+              border-top: 2px dashed rgb(154, 103, 225);
+            }
+            
+            main {
+              max-width: 64em;
+              margin: 0 auto 4em;
+            }
+            
+            .purple {
+              color: var(--purple); 
+            }
+            
+            .gray-dark {
+              color: var(--gray-dark);
+            }
+            
+            .skill-title {
+              min-width: 170px;
+              margin: 0;
+            }
+            
+            .date {
+              color: gray;
+              font-size: small;
+            }
+            
+            .keywords {
+              list-style: none;
+              padding: 0;
+            }
+            
+            .keywords li  {
+              font-size: 10px;
+              min-width: 90px;
+              padding: 0.5em 0.25em;
+              background-color: var(--gray); 
+              display: inline-flex;
+              align-items: center;
+              justify-content: center;
+              color: white;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <main class="px3">
+            <header class="contact py3">
+                <div class="sm-flex items-center">
+                    <div class="">
+                         <h1 class="purple f1">Matthew Jones</h1>
+
+                         <h2 class="gray-dark mt1 f2">Product Engineer</h2>
+
+                    </div>
+                    <div class="ml-auto sm-flex">
+                        <div class="email px1 mt1"><a href="mailto:matt@hew.tools">matt@hew.tools</a>
+                        </div>
+                        <div class="website px1 mt1"><a href="https://hew.tools">hew.tools</a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <section class="summary">
+                <div class="py1">Front-end and product-focused software engineer with over three years
+                    experience. A Javascript expert, specializing in Node, React, and React
+                    Native. Accomplishments include: enterprise-level Salesforce integrations
+                    and semi-popular open-source libraries. Currently the CTO of an education
+                    company, technical lead, and sole developer, of a problem-solving mobile
+                    app for high school students.</div>
+            </section>
+            <hr>
+            <section class="skills">
+                 <h2 class="py1 f2">SKILLS</h2>
+
+                <div class="">
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>API</strong></h4>
+
+                        <p class=""> <span class="">REST</span>, <span class="">GraphQL</span>, <span class="">Socket</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Architecture</strong></h4>
+
+                        <p class=""> <span class="">MERN</span>, <span class="">MVC</span>, <span class="">Serverless</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Cloud</strong></h4>
+
+                        <p class=""> <span class="">AWS</span>, <span class="">Netlify</span>, <span class="">Digital Ocean</span>,
+                            <span
+                            class="">S3</span>
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>CSS</strong></h4>
+
+                        <p class=""> <span class="">Atomic</span>, <span class="">Bootstrap</span>, <span class="">CSS-in-JS</span>,
+                            <span
+                            class="">Modules</span>, <span class="">PostCSS</span>, <span class="">Sass</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Database</strong></h4>
+
+                        <p class=""> <span class="">NeDB</span>, <span class="">MySQL</span>, <span class="">PostgreSQL</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>JavaScript</strong></h4>
+
+                        <p class=""> <span class="">Feathers</span>, <span class="">Node.js</span>, <span class="">jQuery</span>,
+                            <span
+                            class="">React</span>, <span class="">React Native</span>, <span class="">Socket.io</span>,
+                                <span
+                                class="">Salesforce</span>
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Project</strong></h4>
+
+                        <p class=""> <span class="">Agile</span>, <span class="">Git</span>, <span class="">GitHub</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Ruby</strong></h4>
+
+                        <p class=""> <span class="">Rails</span>, <span class="">Salesforce</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>OCaml</strong></h4>
+
+                        <p class=""> <span class="">React Reason</span>, <span class="">bs-express</span>
+
+                        </p>
+                    </div>
+                    <div class="sm-flex py1">
+                         <h4 class="skill-title mr3 f4"><strong>Web</strong></h4>
+
+                        <p class=""> <span class="">JavaScript</span>, <span class="">HTML5</span>, <span class="">CSS</span>,
+                            <span
+                            class="">DOM</span>
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <hr>
+            <section class="employment">
+                 <h2 class="py1 f2">EMPLOYMENT</h2>
+
+                <div class="">
+                     <h4 class="f4"><em>CTO</em>, <a href="https://protohack.com">Protohack / Startup League</a></h4>
+ <span class="block date py1">2018-01&mdash;2018-04</span>
+
+                    <p>CTO of two education companies, ProtoHack and Startup League. Both businesses
+                        are focused on training high school students to become better problem solvers
+                        and finders. The latter business is technical product: a real-time mobile
+                        game where high schools and students compete in problem-finding exercises.</p>
+                    <ul
+                    class="mt1">
+                        <li>Early-stage startup from NYU&#39;s StartED Incubator (2017).</li>
+                        <li>Technical lead and (currently) sole engineer.</li>
+                        <li>A real-time mobile game.</li>
+                        <li>Tech stack includes: Node.js, Socket.io, and React Native.</li>
+                        </ul>
+                        <ul class="mb3 mt1 flex flex-wrap keywords">
+                            <li class="m1">Node</li>
+                            <li class="m1">Feathers</li>
+                            <li class="m1">React</li>
+                            <li class="m1">React Native</li>
+                            <li class="m1">Gatsby</li>
+                        </ul>
+                         <h4 class="f4"><em>Product Engineer</em>, <a href="https://klue.com">Klue</a></h4>
+ <span class="block date py1">2017-09&mdash;2018-02</span>
+
+                        <p>Early-stage company; full-stack role that involved wearing many hats:
+                            design, UX.</p>
+                        <ul class="mt1">
+                            <li>Implemented various client-facing product features.</li>
+                            <li>Primary engineer responsible for integrating and building with Salesforce.</li>
+                            <li>Lead the transition from the Browserify to Webpack.</li>
+                            <li>Integrated/introduced Jest test runner; unit testing with Airbnb&#39;s
+                                Enzyme unit testing framework.</li>
+                        </ul>
+                        <ul class="mb3 mt1 flex flex-wrap keywords">
+                            <li class="m1">Javascript</li>
+                            <li class="m1">ML</li>
+                            <li class="m1">Ruby</li>
+                            <li class="m1">React</li>
+                            <li class="m1">Rails</li>
+                            <li class="m1">Webpack</li>
+                        </ul>
+                         <h4 class="f4"><em>Front End Developer</em>, <a href="https://deadfamous.ca">Dead Famous</a></h4>
+ <span class="block date py1">2015-05&mdash;2016-06</span>
+
+                        <p>Creative web design and development for an advertising/digital agency.
+                            Emphasis on Javascript-powered animations and dynamic web experiences.</p>
+                        <ul
+                        class="mt1">
+                            <li>Experience building high performance web apps, websites, and static pages
+                                using React.</li>
+                            <li>Pushed the boundaries of performance, theme architecture, and client/user
+                                expectation</li>
+                            <li>Basic iOS app experience with React Native.</li>
+                            </ul>
+                            <ul class="mb3 mt1 flex flex-wrap keywords">
+                                <li class="m1">GSAP</li>
+                                <li class="m1">React</li>
+                                <li class="m1">React Motion</li>
+                                <li class="m1">Redux</li>
+                                <li class="m1">Wordpress</li>
+                            </ul>
+                             <h4 class="f4"><em>Digital Marketer</em>, Cedars Online</h4>
+ <span class="block date py1">2013-04&mdash;2015-05</span>
+
+                            <p>Search engine optimization and content marketing for the gaming industry.</p>
+                            <ul
+                            class="mt1">
+                                <li>Primary copywriter on email marketing campaigns netting millions in revenue.</li>
+                                <li>Heavy emphasis on technical ability and knowledge of web technology (hacks).</li>
+                                <li>Proven and repeatable search engine optimization success for valuable
+                                    keywords.</li>
+                                <li>Conversion rate optimization for landing pages receiving 30k+ monthly
+                                    visits.</li>
+                                <li>Solo designed and built many websites.</li>
+                                </ul>
+                                <ul class="mb3 mt1 flex flex-wrap keywords">
+                                    <li class="m1">SEO</li>
+                                    <li class="m1">SEM</li>
+                                    <li class="m1">Black Hat</li>
+                                    <li class="m1">HTML Emails</li>
+                                </ul>
+                                 <h4 class="f4"><em>Copywriter</em>, <a href="http://www.teachaway.com">Teach Away</a></h4>
+ <span class="block date py1">2012-04&mdash;2013-04</span>
+
+                                <p>Copywriter and digital marketer with a focus on international audiences.</p>
+                                <ul
+                                class="mt1">
+                                    <li>Prolific blogger and content marketing strategist.</li>
+                                    <li>Web development for teachaway.com and satellite properties.</li>
+                                    <li>Landing page conversion rate optimization and search engine optimization.</li>
+                                    <li>Responsible for rapid growth on Facebook by utilizing &#39;content gates&#39;.</li>
+                                    </ul>
+                                    <ul class="mb3 mt1 flex flex-wrap keywords">
+                                        <li class="m1">Copywriting</li>
+                                        <li class="m1">SEO</li>
+                                        <li class="m1">SEM</li>
+                                    </ul>
+                                     <h4 class="f4"><em>Copywriter</em>, <a href="http://www.1stpetnaturals.com">First Pet Naturals</a></h4>
+ <span class="block date py1">2011-11&mdash;2012-04</span>
+
+                                    <p>Copywriter in a technical role, helping to build out the emails and webpages.</p>
+                                    <ul
+                                    class="mt1">
+                                        <li>Lead copywriting for blogs, long form content, and press releases.</li>
+                                        <li>Basic web development for website, blog, and HTML newsletters/emails.</li>
+                                        <li>Proven sucess with search engine marketing and optimization campaigns.</li>
+                                        </ul>
+                                        <ul class="mb3 mt1 flex flex-wrap keywords">
+                                            <li class="m1">Copywriting</li>
+                                            <li class="m1">SEO</li>
+                                            <li class="m1">SEM</li>
+                                        </ul>
+                </div>
+            </section>
+            <hr>
+            <section class="education">
+                 <h2 class="py1 f2">EDUCATION</h2>
+
+                <div class="">
+                     <h4 class="f4"><em>Bachelor of Arts</em>, <a href="https://www.dalhousie.ca/">Dalhousie University</a></h4>
+ <span class="block date py1 mb1">2005-01&mdash;2009-01</span>
+
+                     <h4 class="f4"><em>Certificate in Computer Programming</em>, <a href="https://ubc.ca">UBC</a></h4>
+ <span class="block date py1 mb1">2013-01&mdash;2013-01</span>
+
+                </div>
+            </section>
+            <hr>
+            <section class="affiliation">
+                 <h2 class="py1 f2">AFFILIATION</h2>
+
+                <div class="">
+                     <h4><em>Teacher</em>, <a href="http://ladieslearningcode.com">Leadies Learning Code</a></h4>
+ <span class="block date py1">2015-01&mdash;2018-04</span>
+
+                    <p>Digital Literacy for Women and Youth. Teaching coding and web technology.</p>
+                </div>
+            </section>
+            <p class="mt4 sm-flex"><a class="ml-auto" href="https://github.com/hew/resume">View source</a>
+            </p>
+        </main>
+    </body>
+
+</html>

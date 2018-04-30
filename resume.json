@@ -1,0 +1,311 @@
+{
+
+  "name": "Matthew Jones",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.5.0"
+  },
+
+  "info": {
+    "label": "Product Engineer",
+    "characterClass": "Programmer",
+    "brief": "Front-end and product-focused software engineer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.",
+    "image": "matt.png",
+    "quote": "I like hummus."
+  },
+
+  "contact": {
+    "website": "https://hew.tools",
+    "email": "matt@hew.tools",
+    "phone": "",
+    "other": []
+  },
+
+  "location": {
+    "address": "",
+    "city": "Vancouver",
+    "region": "BC",
+    "code": "",
+    "country": "CA"
+  },
+
+  "projects": [],
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "hew",
+      "url": "https://github.com/hew"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "tahini",
+      "url": "https://twitter.com/tahini"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "3+ years product software development.",
+
+    "history": [
+
+      {
+        "employer": "Protohack / Startup League",
+        "url": "https://protohack.com",
+        "position": "CTO",
+        "summary": "CTO of two education companies, ProtoHack and Startup League. Both businesses are focused on training high school students to become better problem solvers and finders. The latter business is technical product: a real-time mobile game where high schools and students compete in problem-finding exercises.",
+        "start": "2018-01",
+        "keywords": ["Node", "Feathers", "React", "React Native", "Gatsby"],
+        "highlights": [
+          "Early-stage startup from NYU's StartED Incubator (2017).", 
+          "Technical lead and (currently) sole engineer.", 
+          "A real-time mobile game.",
+          "Tech stack includes: Node.js, Socket.io, and React Native."
+        ]
+      },
+
+      {
+        "employer": "Klue",
+        "url": "https://klue.com",
+        "position": "Product Engineer",
+        "summary": "Early-stage company; full-stack role that involved wearing many hats: design, UX.",
+        "start": "2017-09",
+        "end": "2018-02",
+        "keywords": ["Javascript", "ML", "Ruby", "React", "Rails", "Webpack"],
+        "highlights": [
+          "Implemented various client-facing product features.",
+          "Primary engineer responsible for integrating and building with Salesforce.",
+          "Lead the transition from the Browserify to Webpack.",
+          "Integrated/introduced Jest test runner; unit testing with Airbnb's Enzyme unit testing framework."
+        ]
+      },
+
+      {
+        "employer": "Dead Famous",
+        "url": "https://deadfamous.ca",
+        "position": "Front End Developer",
+        "summary": "Creative web design and development for an advertising/digital agency. Emphasis on Javascript-powered animations and dynamic web experiences.",
+        "start": "2015-05",
+        "end": "2016-06",
+        "keywords": ["GSAP", "React", "React Motion", "Redux", "Wordpress"],
+        "highlights": [
+          "Experience building high performance web apps, websites, and static pages using React.",
+          "Pushed the boundaries of performance, theme architecture, and client/user expectation",
+          "Basic iOS app experience with React Native."
+
+        ]
+      },
+
+      {
+        "employer": "Cedars Online",
+        "position": "Digital Marketer",
+        "summary": "Search engine optimization and content marketing for the gaming industry.",
+        "start": "2013-04",
+        "end": "2015-05",
+        "keywords": ["SEO","SEM","Black Hat","HTML Emails"],
+        "highlights": [
+          "Primary copywriter on email marketing campaigns netting millions in revenue.",
+          "Heavy emphasis on technical ability and knowledge of web technology (hacks).", 
+          "Proven and repeatable search engine optimization success for valuable keywords.",
+          "Conversion rate optimization for landing pages receiving 30k+ monthly visits.",
+          "Solo designed and built many websites."
+        ]
+      },
+
+      {
+        "employer": "Teach Away",
+        "position": "Copywriter",
+        "url": "http://www.teachaway.com",
+        "start": "2012-04",
+        "end": "2013-04",
+        "summary": "Copywriter and digital marketer with a focus on international audiences.",
+        "keywords": ["Copywriting", "SEO","SEM"],
+        "highlights": [
+          "Prolific blogger and content marketing strategist.",
+          "Web development for teachaway.com and satellite properties.",
+          "Landing page conversion rate optimization and search engine optimization.",
+          "Responsible for rapid growth on Facebook by utilizing 'content gates'."
+        ]
+      },
+
+      {
+        "employer": "First Pet Naturals",
+        "url": "http://www.1stpetnaturals.com",
+        "position": "Copywriter",
+        "summary": "Copywriter in a technical role, helping to build out the emails and webpages.",
+        "start": "2011-11",
+        "end": "2012-04",
+        "keywords": ["Copywriting", "SEO","SEM"],
+        "highlights": [
+          "Lead copywriting for blogs, long form content, and press releases.",
+          "Basic web development for website, blog, and HTML newsletters/emails.",
+          "Proven sucess with search engine marketing and optimization campaigns."
+        ]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "Bachelor of Arts in Philosophy",
+
+    "history": [
+
+      {
+        "institution": "Dalhousie University",
+        "title": "Bachelor of Arts",
+        "url": "https://www.dalhousie.ca/",
+        "start": "2005",
+        "end": "2009",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
+      },
+
+      {
+        "institution": "UBC",
+        "title": "Certificate in Computer Programming",
+        "url": "https://ubc.ca",
+        "start": "2013",
+        "end": "2013",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
+      }
+    ]
+
+  },
+
+  "affiliation": {
+    "summary": "",
+    "history": [
+      {
+        "role": "Volunteer",
+        "position": "Teacher",
+        "organization": "Leadies Learning Code",
+        "url": "http://ladieslearningcode.com",
+        "start": "2015-01",
+        "summary": "Digital Literacy for Women and Youth. Teaching coding and web technology.",
+        "highlights": []
+      }
+    ]
+  },
+
+  "service": {},
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "API",
+        "level": "intermediate",
+        "skills": [
+          "REST", "GraphQL", "Socket"
+        ]
+      },
+      {
+        "name": "Architecture",
+        "level": "intermediate",
+        "skills": [
+          "MERN", "MVC", "Serverless"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "intermediate",
+        "skills": [
+          "AWS", "Netlify", "Digital Ocean", "S3" 
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "expert",
+        "skills": [
+          "Atomic", "Bootstrap", "CSS-in-JS", "Modules", "PostCSS", "Sass"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "NeDB", "MySQL", "PostgreSQL"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "expert",
+        "skills": [
+          "Feathers", "Node.js", "jQuery", "React", "React Native", "Socket.io", "Salesforce"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "intermediate",
+        "skills": [
+          "Agile", "Git", "GitHub"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "level": "expert",
+        "skills": [
+          "Rails", "Salesforce"
+        ]
+      },
+      {
+        "name": "OCaml",
+        "level": "intermediate",
+        "skills": [
+          "React Reason", "bs-express"
+        ]
+      },
+      {
+        "name": "Web",
+        "level": "expert",
+        "skills": [
+          "JavaScript", "HTML5", "CSS", "DOM"
+        ]
+      }
+    ],
+
+    "list": []
+  },
+
+  "samples": [],
+
+  "writing": [],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "reading": [],
+
+  "speaking": [],
+
+  "recognition": [],
+
+  "references": [],
+
+  "testimonials": [],
+
+  "extracurricular": [],
+
+  "governance": [],
+
+  "interests": []
+
+}
