@@ -1,26 +1,27 @@
 Matthew Jones
 =================
 
-Product Engineer
+Software Developer
 =================
 
 Email: matt@hew.tools
 
 Web: https://hew.tools
 
-Front-end and product-focused software engineer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.
+Front-end and product-focused software developer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.
 
 
 SKILLS -------------------------------------------------------------------------
 
 - API: REST GraphQL Socket 
-- Architecture: MERN MVC Serverless 
+- Architecture: MERN MVC JAM Serverless 
 - Cloud: AWS Netlify Digital Ocean S3 
 - CSS: Atomic Bootstrap CSS-in-JS Modules PostCSS Sass 
 - Database: NeDB MySQL PostgreSQL 
 - JavaScript: Feathers Node.js jQuery React React Native Socket.io Salesforce 
 - Project: Agile Git GitHub 
 - Ruby: Rails Salesforce 
+- Python: Basic proficiency Web scraping 
 - OCaml: React Reason bs-express 
 - Web: JavaScript HTML5 CSS DOM 
 

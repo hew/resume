@@ -8,9 +8,9 @@
   },
 
   "info": {
-    "label": "Product Engineer",
+    "label": "Software Developer",
     "characterClass": "Programmer",
-    "brief": "Front-end and product-focused software engineer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.",
+    "brief": "Front-end and product-focused software developer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
@@ -217,7 +217,7 @@
         "name": "Architecture",
         "level": "intermediate",
         "skills": [
-          "MERN", "MVC", "Serverless"
+          "MERN", "MVC", "JAM", "Serverless"
         ]
       },
       {
@@ -260,6 +260,13 @@
         "level": "expert",
         "skills": [
           "Rails", "Salesforce"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "beginner",
+        "skills": [
+          "Basic proficiency", "Web scraping"
         ]
       },
       {
