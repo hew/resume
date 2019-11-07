@@ -1,27 +1,22 @@
 {
-
   "name": "Matthew Jones",
-
   "meta": {
     "format": "FRESH@0.6.0",
     "version": "0.5.0"
   },
-
   "info": {
-    "label": "Software Developer",
+    "label": "Software Engineer",
     "characterClass": "Programmer",
-    "brief": "Front-end and product-focused software developer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.",
+    "brief": "Full-stack product engineer with four years experience. 2x founder.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
-
   "contact": {
     "website": "https://hew.tools",
     "email": "matt@hew.tools",
     "phone": "",
     "other": []
   },
-
   "location": {
     "address": "",
     "city": "Vancouver",
@@ -29,9 +24,7 @@
     "code": "",
     "country": "CA"
   },
-
   "projects": [],
-
   "social": [
     {
       "label": "GitHub",
@@ -47,33 +40,26 @@
       "url": "https://twitter.com/tahini"
     }
   ],
-
   "employment": {
-
-    "summary": "3+ years product software development.",
-
+    "summary": "4 years product software development.",
     "history": [
-
       {
-        "employer": "Protohack / Startup League",
-        "url": "https://protohack.com",
+        "employer": "Startup League",
+        "url": "https://startupleague.io",
         "position": "CTO",
-        "summary": "CTO of two education companies, ProtoHack and Startup League. Both businesses are focused on training high school students to become better problem solvers and finders. The latter business is technical product: a real-time mobile game where high schools and students compete in problem-finding exercises.",
+        "summary": "Early-stage company, launched out of StartED Incubator at NYU.",
         "start": "2018-01",
-        "keywords": ["Node", "Feathers", "React", "React Native", "Gatsby"],
+        "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
         "highlights": [
-          "Early-stage startup from NYU's StartED Incubator (2017).", 
-          "Technical lead and (currently) sole engineer.", 
-          "A real-time mobile game.",
-          "Tech stack includes: Node.js, Socket.io, and React Native."
+          "Took a cross-platform, real-time mobile game from inception to production",
+          "Lead a small, remote team of developers"
         ]
       },
-
       {
         "employer": "Klue",
         "url": "https://klue.com",
         "position": "Product Engineer",
-        "summary": "Early-stage company; full-stack role that involved wearing many hats: design, UX.",
+        "summary": "Early-stage company; full-stack role.",
         "start": "2017-09",
         "end": "2018-02",
         "keywords": ["Javascript", "ML", "Ruby", "React", "Rails", "Webpack"],
@@ -81,10 +67,9 @@
           "Implemented various client-facing product features.",
           "Primary engineer responsible for integrating and building with Salesforce.",
           "Lead the transition from the Browserify to Webpack.",
-          "Integrated/introduced Jest test runner; unit testing with Airbnb's Enzyme unit testing framework."
+          "Unit testing with Airbnb's Enzyme unit testing framework."
         ]
       },
-
       {
         "employer": "Dead Famous",
         "url": "https://deadfamous.ca",
@@ -97,26 +82,23 @@
           "Experience building high performance web apps, websites, and static pages using React.",
           "Pushed the boundaries of performance, theme architecture, and client/user expectation",
           "Basic iOS app experience with React Native."
-
         ]
       },
-
       {
         "employer": "Cedars Online",
         "position": "Digital Marketer",
         "summary": "Search engine optimization and content marketing for the gaming industry.",
         "start": "2013-04",
         "end": "2015-05",
-        "keywords": ["SEO","SEM","Black Hat","HTML Emails"],
+        "keywords": ["SEO", "SEM", "Black Hat", "HTML Emails"],
         "highlights": [
           "Primary copywriter on email marketing campaigns netting millions in revenue.",
-          "Heavy emphasis on technical ability and knowledge of web technology (hacks).", 
+          "Heavy emphasis on technical ability and knowledge of web technology (hacks).",
           "Proven and repeatable search engine optimization success for valuable keywords.",
           "Conversion rate optimization for landing pages receiving 30k+ monthly visits.",
           "Solo designed and built many websites."
         ]
       },
-
       {
         "employer": "Teach Away",
         "position": "Copywriter",
@@ -124,7 +106,7 @@
         "start": "2012-04",
         "end": "2013-04",
         "summary": "Copywriter and digital marketer with a focus on international audiences.",
-        "keywords": ["Copywriting", "SEO","SEM"],
+        "keywords": ["Copywriting", "SEO", "SEM"],
         "highlights": [
           "Prolific blogger and content marketing strategist.",
           "Web development for teachaway.com and satellite properties.",
@@ -132,7 +114,6 @@
           "Responsible for rapid growth on Facebook by utilizing 'content gates'."
         ]
       },
-
       {
         "employer": "First Pet Naturals",
         "url": "http://www.1stpetnaturals.com",
@@ -140,7 +121,7 @@
         "summary": "Copywriter in a technical role, helping to build out the emails and webpages.",
         "start": "2011-11",
         "end": "2012-04",
-        "keywords": ["Copywriting", "SEO","SEM"],
+        "keywords": ["Copywriting", "SEO", "SEM"],
         "highlights": [
           "Lead copywriting for blogs, long form content, and press releases.",
           "Basic web development for website, blog, and HTML newsletters/emails.",
@@ -148,19 +129,12 @@
         ]
       }
     ]
-
   },
-
   "education": {
-
     "summary": "",
-
     "level": "degree",
-
     "degree": "Bachelor of Arts in Philosophy",
-
     "history": [
-
       {
         "institution": "Dalhousie University",
         "title": "Bachelor of Arts",
@@ -171,7 +145,6 @@
         "summary": "",
         "curriculum": []
       },
-
       {
         "institution": "UBC",
         "title": "Certificate in Computer Programming",
@@ -183,9 +156,7 @@
         "curriculum": []
       }
     ]
-
   },
-
   "affiliation": {
     "summary": "",
     "history": [
@@ -200,119 +171,53 @@
       }
     ]
   },
-
   "service": {},
-
-  "skills": {
-
-    "sets": [
+  "skills": [
+    {"name": "Building stable, adaptive, scalable UIs"},
+    {"name": "Unit testing - specifically React"},
+    {"name": "E2E testing - specifically Cypress"},
+    {"name": "Component and theme styling API design"},
+    {"name": "React performance profiling"},
+    {"name": "Mid-stack state architecture"},
+    {"name": "Reasonml or WASM interoperability with Javascript"},
+    {"name": "Web animation"}
+  ],
+  "proficiencies": [
       {
         "name": "API",
         "level": "intermediate",
-        "skills": [
-          "REST", "GraphQL", "Socket"
-        ]
+        "skills": ["REST", "GraphQL", "Socket", "Lambda"]
       },
       {
-        "name": "Architecture",
-        "level": "intermediate",
-        "skills": [
-          "MERN", "MVC", "JAM", "Serverless"
-        ]
-      },
-      {
-        "name": "Cloud",
-        "level": "intermediate",
-        "skills": [
-          "AWS", "Netlify", "Digital Ocean", "S3" 
-        ]
-      },
-      {
-        "name": "CSS",
+        "name": "Languages",
         "level": "expert",
-        "skills": [
-          "Atomic", "Bootstrap", "CSS-in-JS", "Modules", "PostCSS", "Sass"
-        ]
+        "skills": ["CSS", "HTML", "PHP", "Javascript", "Python", "Reasonml/OCaml", "Rust"]
       },
       {
         "name": "Database",
         "level": "intermediate",
-        "skills": [
-          "NeDB", "MySQL", "PostgreSQL"
-        ]
+        "skills": ["DynamoDB", "MySQL", "MongoDB", "Embedded", "PostgreSQL"]
       },
       {
-        "name": "JavaScript",
-        "level": "expert",
-        "skills": [
-          "Feathers", "Node.js", "jQuery", "React", "React Native", "Socket.io", "Salesforce"
-        ]
-      },
-      {
-        "name": "Project",
+        "name": "Frameworks",
         "level": "intermediate",
-        "skills": [
-          "Agile", "Git", "GitHub"
-        ]
-      },
-      {
-        "name": "Ruby",
-        "level": "expert",
-        "skills": [
-          "Rails", "Salesforce"
-        ]
-      },
-      {
-        "name": "Python",
-        "level": "beginner",
-        "skills": [
-          "Basic proficiency", "Web scraping"
-        ]
-      },
-      {
-        "name": "OCaml",
-        "level": "intermediate",
-        "skills": [
-          "React Reason", "bs-express"
-        ]
-      },
-      {
-        "name": "Web",
-        "level": "expert",
-        "skills": [
-          "JavaScript", "HTML5", "CSS", "DOM"
-        ]
+        "skills": ["React", "React Native", "Redux", "Webpack", "Rails", "WASM", "GSAP"]
       }
-    ],
-
-    "list": []
-  },
-
+  ],
   "samples": [],
-
   "writing": [],
-
   "languages": [
     {
       "language": "English",
       "level": "Native"
     }
   ],
-
   "reading": [],
-
   "speaking": [],
-
   "recognition": [],
-
   "references": [],
-
   "testimonials": [],
-
   "extracurricular": [],
-
   "governance": [],
-
   "interests": []
-
 }

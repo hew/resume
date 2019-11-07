@@ -1,46 +1,33 @@
 Matthew Jones
 =================
 
-Software Developer
+Software Engineer
 =================
 
 Email: matt@hew.tools
 
 Web: https://hew.tools
 
-Front-end and product-focused software developer with over three years experience. A Javascript expert, specializing in Node, React, and React Native. Accomplishments include: enterprise-level Salesforce integrations and semi-popular open-source libraries. Currently the CTO of an education company, technical lead, and sole developer, of a problem-solving mobile app for high school students.
+Full-stack product engineer with four years experience. 2x founder.
 
 
 SKILLS -------------------------------------------------------------------------
 
-- API: REST GraphQL Socket 
-- Architecture: MERN MVC JAM Serverless 
-- Cloud: AWS Netlify Digital Ocean S3 
-- CSS: Atomic Bootstrap CSS-in-JS Modules PostCSS Sass 
-- Database: NeDB MySQL PostgreSQL 
-- JavaScript: Feathers Node.js jQuery React React Native Socket.io Salesforce 
-- Project: Agile Git GitHub 
-- Ruby: Rails Salesforce 
-- Python: Basic proficiency Web scraping 
-- OCaml: React Reason bs-express 
-- Web: JavaScript HTML5 CSS DOM 
 
 
 EMPLOYMENT ---------------------------------------------------------------------
 
-CTO, Protohack / Startup League (2018-01 — Present)
-CTO of two education companies, ProtoHack and Startup League. Both businesses are focused on training high school students to become better problem solvers and finders. The latter business is technical product: a real-time mobile game where high schools and students compete in problem-finding exercises.
-- Early-stage startup from NYU's StartED Incubator (2017).
-- Technical lead and (currently) sole engineer.
-- A real-time mobile game.
-- Tech stack includes: Node.js, Socket.io, and React Native.
+CTO, Startup League (2018-01 — Present)
+Early-stage company, launched out of StartED Incubator at NYU.
+- Took a cross-platform, real-time mobile game from inception to production
+- Lead a small, remote team of developers
 
 Product Engineer, Klue (2017-09 — 2018-02)
-Early-stage company; full-stack role that involved wearing many hats: design, UX.
+Early-stage company; full-stack role.
 - Implemented various client-facing product features.
 - Primary engineer responsible for integrating and building with Salesforce.
 - Lead the transition from the Browserify to Webpack.
-- Integrated/introduced Jest test runner; unit testing with Airbnb's Enzyme unit testing framework.
+- Unit testing with Airbnb's Enzyme unit testing framework.
 
 Front End Developer, Dead Famous (2015-05 — 2016-06)
 Creative web design and development for an advertising/digital agency. Emphasis on Javascript-powered animations and dynamic web experiences.
