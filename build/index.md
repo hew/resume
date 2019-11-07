@@ -18,8 +18,8 @@ Full-stack product engineer with four years experience. 2x founder.
 ### *CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
 
 Early-stage company, launched out of StartED Incubator at NYU.
-  - Took a cross-platform, real-time mobile game from inception to production
-  - Lead a small, remote team of developers
+  - Took a cross-platform, real-time mobile game from inception to production.
+  - Lead a small, remote team of developers.
 
 ### *Product Engineer*, [Klue](https://klue.com) (2017-09 — 2018-02)
 
@@ -33,7 +33,7 @@ Early-stage company; full-stack role.
 
 Creative web design and development for an advertising/digital agency. Emphasis on Javascript-powered animations and dynamic web experiences.
   - Experience building high performance web apps, websites, and static pages using React.
-  - Pushed the boundaries of performance, theme architecture, and client/user expectation
+  - Pushed the boundaries of performance, theme architecture, and client/user expectation.
   - Basic iOS app experience with React Native.
 
 ### *Digital Marketer*, Cedars Online (2013-04 — 2015-05)

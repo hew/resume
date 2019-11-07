@@ -51,8 +51,8 @@
         "start": "2018-01",
         "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
         "highlights": [
-          "Took a cross-platform, real-time mobile game from inception to production",
-          "Lead a small, remote team of developers"
+          "Took a cross-platform, real-time mobile game from inception to production.",
+          "Lead a small, remote team of developers."
         ]
       },
       {
@@ -80,7 +80,7 @@
         "keywords": ["GSAP", "React", "React Motion", "Redux", "Wordpress"],
         "highlights": [
           "Experience building high performance web apps, websites, and static pages using React.",
-          "Pushed the boundaries of performance, theme architecture, and client/user expectation",
+          "Pushed the boundaries of performance, theme architecture, and client/user expectation.",
           "Basic iOS app experience with React Native."
         ]
       },
@@ -179,6 +179,7 @@
     {"name": "Component and theme API design"},
     {"name": "React performance profiling"},
     {"name": "Mid-stack state architecture"},
+    {"name": "(AWS) DevOps and Serverless architecture"},
     {"name": "Reasonml or WASM interoperability with Javascript"},
     {"name": "Web animation"}
   ],
