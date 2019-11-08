@@ -22,9 +22,11 @@ Early-stage company, launched out of StartED Incubator at NYU.
   - Built corresponding (typed) front end in Reasonml, using React Native, Hooks API.
   - Built another real-time game server on AWS AppSync/Lambda/Cognito.
   - Built corresponding front end in Javascript, using React Native, Hooks API.
-  - Frontend theming, custom theme-ui integration into React Native.
+  - Front end theming, custom theme-ui integration into React Native.
+  - React state architecture using Context, Hooks, xstate.
+  - Database/GraphQL modeling backed by MongoDB and DynamoDB
   - Built marketing website using Gatsby (React static site generator), theme-ui, and Amplify.
-  - App and website DevOps with AWS, Zeit, and Netlify.
+  - App and website DevOps with AWS, Zeit, Netlify, and Shell scripts.
   - Heavily leveraged state charts (xstate) in all aspects of the codebase; state chart blogging.
   - Responsibilities include leading a small, remote team of developers; all architecture; all documentation.
 
