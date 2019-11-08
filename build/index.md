@@ -15,18 +15,26 @@ Full-stack product engineer with four years experience. 2x founder.
 
 ## EMPLOYMENT
 
-### *CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
+### *Full-stack Engineer/CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
 
 Early-stage company, launched out of StartED Incubator at NYU.
-  - Took a cross-platform, real-time mobile game from inception to production.
-  - Lead a small, remote team of developers.
+  - Built a real-time game server in Node, leveraging the Feathers framework.
+  - Built corresponding (typed) front end in Reasonml, using React Native, Hooks API.
+  - Built another real-time game server on AWS AppSync/Lambda/Cognito.
+  - Built corresponding front end in Javascript, using React Native, Hooks API.
+  - Frontend theming, custom theme-ui integration into React Native.
+  - Built marketing website using Gatsby (React static site generator), theme-ui, and Amplify.
+  - App and website DevOps with AWS, Zeit, and Netlify.
+  - Heavily leveraged state charts (xstate) in all aspects of the codebase; state chart blogging.
+  - Responsibilities include leading a small, remote team of developers; all architecture; all documentation.
 
 ### *Product Engineer*, [Klue](https://klue.com) (2017-09 — 2018-02)
 
 Early-stage company; full-stack role.
-  - Implemented various client-facing product features.
-  - Primary engineer responsible for integrating and building with Salesforce.
-  - Lead the transition from the Browserify to Webpack.
+  - Built an embedded Salesforce application using React which interfaced with the Klue API from Salesforce.
+  - Built a proxy server in Node to handle Salesforce authentication.
+  - Implemented various client-facing product features, including the product onboarding.
+  - Lead the transition from the Browserify to Webpack for the primary Klue application.
   - Unit testing with Airbnb's Enzyme unit testing framework.
 
 ### *Front End Developer*, [Dead Famous](https://deadfamous.ca) (2015-05 — 2016-06)
