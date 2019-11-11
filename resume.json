@@ -184,14 +184,16 @@
   "service": {},
   "skills": [
     {"name": "Building stable, adaptive, scalable UIs"},
-    {"name": "Unit testing - specifically React"},
-    {"name": "E2E testing - specifically Cypress"},
     {"name": "Component and theme API design"},
-    {"name": "React performance profiling"},
-    {"name": "Mid-stack state architecture"},
-    {"name": "(AWS) DevOps and Serverless architecture"},
+    {"name": "(Real-time) game design"},
+    {"name": "React state architecture"},
+    {"name": "Statechart-based development"},
     {"name": "Reasonml or WASM interoperability with Javascript"},
-    {"name": "Web animation"}
+    {"name": "Web animation with an emphasis on React"},
+    {"name": "Javascript-based DevOps"},
+    {"name": "Interfacing with third-party APIs"},
+    {"name": "Excelling in an remote team environment"},
+    {"name": "Problem solving in early-stage environments"},
   ],
   "proficiencies": [
       {
@@ -208,11 +210,6 @@
         "name": "Database",
         "level": "intermediate",
         "skills": ["DynamoDB", "MySQL", "MongoDB", "Embedded", "PostgreSQL"]
-      },
-      {
-        "name": "Frameworks",
-        "level": "intermediate",
-        "skills": ["React", "React Native", "Redux", "Webpack", "Rails", "WASM", "GSAP"]
       }
   ],
   "samples": [],
