@@ -1,21 +1,21 @@
 Matthew Jones
 =================
 
-Software Engineer
+Front End / Mobile Developer
 =================
 
 Email: matt@hew.tools
 
 Web: https://hew.tools
 
-Full-stack product engineer with four years experience. 2x founder.
+Four years experience. 2x founder.
 
 ## SKILLS
 
 
 ## EMPLOYMENT
 
-### *Full-stack Engineer/CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
+### *CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
 
 Early-stage company, launched out of StartED Incubator at NYU.
   - Built a real-time game server in Node, leveraging the Feathers framework.
@@ -30,7 +30,7 @@ Early-stage company, launched out of StartED Incubator at NYU.
   - Heavily leveraged state charts (xstate) in all aspects of the codebase; state chart blogging.
   - Responsibilities include leading a small, remote team of developers; all architecture; all documentation.
 
-### *Product Engineer*, [Klue](https://klue.com) (2017-09 — 2018-02)
+### *Full Stack Developer*, [Klue](https://klue.com) (2017-09 — 2018-02)
 
 Early-stage company; full-stack role.
   - Built an embedded Salesforce application using React which interfaced with the Klue API from Salesforce.

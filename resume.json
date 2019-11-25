@@ -5,9 +5,9 @@
     "version": "0.5.0"
   },
   "info": {
-    "label": "Software Engineer",
+    "label": "Front End / Mobile Developer",
     "characterClass": "Programmer",
-    "brief": "Full-stack product engineer with four years experience. 2x founder.",
+    "brief": "Four years experience. 2x founder.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
@@ -24,6 +24,36 @@
     "code": "",
     "country": "CA"
   },
+  "skills": [
+    {"name": "Expert at building stable, adaptive, scalable UIs."},
+    {"name": "React and Reasonml early adopter."},
+    {"name": "Founded two companies in the (mobile app) tech space."},
+    {"name": "Excel in remote and diverse team environments."},
+    {"name": "Generalist mentality; enjoy working the entire stack."},
+    {"name": "Active open sourceror and blogger."}
+  ],
+  "proficiencies": [
+      {
+        "name": "API",
+        "level": "intermediate",
+        "skills": ["REST", "GraphQL", "Socket", "Lambda"]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": ["DynamoDB", "MySQL", "MongoDB", "Embedded", "PostgreSQL"]
+      },
+      {
+        "name": "Languages",
+        "level": "expert",
+        "skills": ["CSS", "HTML", "PHP", "Javascript/Node", "Python", "Reasonml/OCaml", "Rust"]
+      },
+      {
+        "name": "Libs + Frameworks",
+        "level": "intermediate",
+        "skills": ["Amplify", "Gatsby", "React", "React Native", "Redux", "Rails", "serverless", "xstate"]
+      }
+  ],
   "projects": [],
   "social": [
     {
@@ -46,7 +76,7 @@
       {
         "employer": "Startup League",
         "url": "https://startupleague.io",
-        "position": "Full-stack Engineer/CTO",
+        "position": "CTO",
         "summary": "Early-stage company, launched out of StartED Incubator at NYU.",
         "start": "2018-01",
         "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
@@ -67,7 +97,7 @@
       {
         "employer": "Klue",
         "url": "https://klue.com",
-        "position": "Product Engineer",
+        "position": "Full Stack Developer",
         "summary": "Early-stage company; full-stack role.",
         "start": "2017-09",
         "end": "2018-02",
@@ -182,36 +212,6 @@
     ]
   },
   "service": {},
-  "skills": [
-    {"name": "Building stable, adaptive, scalable UIs"},
-    {"name": "Component and theme API design"},
-    {"name": "(Real-time) game design"},
-    {"name": "React state architecture"},
-    {"name": "Statechart-based development"},
-    {"name": "Reasonml or WASM interoperability with Javascript"},
-    {"name": "Web animation with an emphasis on React"},
-    {"name": "Javascript-based DevOps"},
-    {"name": "Interfacing with third-party APIs"},
-    {"name": "Excelling in an remote team environment"},
-    {"name": "Problem solving in early-stage environments"}
-  ],
-  "proficiencies": [
-      {
-        "name": "API",
-        "level": "intermediate",
-        "skills": ["REST", "GraphQL", "Socket", "Lambda"]
-      },
-      {
-        "name": "Languages",
-        "level": "expert",
-        "skills": ["CSS", "HTML", "PHP", "Javascript", "Python", "Reasonml/OCaml", "Rust"]
-      },
-      {
-        "name": "Database",
-        "level": "intermediate",
-        "skills": ["DynamoDB", "MySQL", "MongoDB", "Embedded", "PostgreSQL"]
-      }
-  ],
   "samples": [],
   "writing": [],
   "languages": [
