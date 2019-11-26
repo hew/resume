@@ -8,14 +8,21 @@ Email: matt@hew.tools
 
 Web: https://hew.tools
 
-Four years experience. 2x founder.
+Five years experience building for the web. 2x founder.
 
 ## SKILLS
 
 
 ## EMPLOYMENT
 
-### *CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
+### *Co-founder/CTO*, [Palate](TBD) (2019-01 — Present)
+
+Early-stage company in the food tech space. Stealth mode.
+  - Technical lead of a small team of remote developers.
+  - Node-based server and admin dashboard.
+  - React Native front end: iOS and Android.
+
+### *Co-founder/CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
 
 Early-stage company, launched out of StartED Incubator at NYU.
   - Built a real-time game server in Node, leveraging the Feathers framework.

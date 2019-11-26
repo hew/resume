@@ -7,7 +7,7 @@
   "info": {
     "label": "Front End / Mobile Developer",
     "characterClass": "Programmer",
-    "brief": "Four years experience. 2x founder.",
+    "brief": "Five years experience building for the web. 2x founder.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
@@ -74,9 +74,22 @@
     "summary": "4 years product software development.",
     "history": [
       {
+        "employer": "Palate",
+        "url": "TBD",
+        "position": "Co-founder/CTO",
+        "summary": "Early-stage company in the food tech space. Stealth mode.",
+        "start": "2019-01",
+        "keywords": ["Node", "React Native"],
+        "highlights": [
+           "Technical lead of a small team of remote developers.",
+           "Node-based server and admin dashboard.",
+           "React Native front end."
+        ]
+      },
+      {
         "employer": "Startup League",
         "url": "https://startupleague.io",
-        "position": "CTO",
+        "position": "Co-founder/CTO",
         "summary": "Early-stage company, launched out of StartED Incubator at NYU.",
         "start": "2018-01",
         "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
