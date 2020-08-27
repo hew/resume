@@ -7,7 +7,7 @@
   "info": {
     "label": "Front End / Mobile Developer",
     "characterClass": "Programmer",
-    "brief": "Five years experience building for the web. 2x founder.",
+    "brief": "Five years experience building for the web & mobile.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
@@ -27,7 +27,7 @@
   "skills": [
     {"name": "Expert at building stable, adaptive, scalable UIs."},
     {"name": "React and Reasonml early adopter."},
-    {"name": "Founded two companies in the (mobile app) tech space."},
+    {"name": "Technical founder of a company in the education space."},
     {"name": "Excel in remote and diverse team environments."},
     {"name": "Generalist mentality; enjoy working the entire stack."},
     {"name": "Active open sourceror and blogger."}
@@ -46,12 +46,12 @@
       {
         "name": "Languages",
         "level": "expert",
-        "skills": ["CSS", "HTML", "PHP", "Javascript/Node", "Python", "Reasonml/OCaml", "Rust"]
+        "skills": ["CSS", "HTML", "PHP", "Typescript/Node", "Swift", "Reasonml/OCaml", "Rust"]
       },
       {
         "name": "Libs + Frameworks",
         "level": "intermediate",
-        "skills": ["Amplify", "Gatsby", "React", "React Native", "Redux", "Rails", "serverless", "xstate"]
+        "skills": ["Gatsby", "React (Native)", "Redux", "Rails", "serverless", "xstate"]
       }
   ],
   "projects": [],
@@ -74,26 +74,29 @@
     "summary": "4 years product software development.",
     "history": [
       {
-        "employer": "Palate",
-        "url": "TBD",
-        "position": "Co-founder/CTO",
-        "summary": "Early-stage company in the food tech space. Stealth mode.",
-        "start": "2019-01",
-        "keywords": ["Node", "React Native"],
+        "employer": "Cash Live",
+        "url": "https://cash.live",
+        "position": "Full Stack Developer",
+        "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
+        "start": "2019-08",
+        "keywords": ["Next.js", "Typescript", "GRPC", "xstate"],
         "highlights": [
-           "Technical lead of a small team of remote developers.",
-           "Node-based server and admin dashboard.",
-           "React Native front end."
+           "Built a (custom) CMS system for game operators, primarily using Next.js & Prisma.",
+           "Built a dashboard for the game server, primarily using GRPC (Web), Next.js and xstate.",
+           "Early stage role that required navigating ambiguity and clear communication.",
+           "Worked as part of a small team of fully remote developers"
         ]
       },
       {
         "employer": "Startup League",
         "url": "https://startupleague.io",
-        "position": "Co-founder/CTO",
+        "position": "Technical Co-founder",
         "summary": "Early-stage company, launched out of StartED Incubator at NYU.",
         "start": "2018-01",
+        "end": "2019-08",
         "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
         "highlights": [
+          "Lead a small, remote team of developers.",
           "Built a real-time game server in Node, leveraging the Feathers framework.",
           "Built corresponding (typed) front end in Reasonml, using React Native, Hooks API.",
           "Built another real-time game server on AWS AppSync/Lambda/Cognito.",
@@ -101,10 +104,8 @@
           "Front end theming, custom theme-ui integration into React Native.",
           "React state architecture using Context, Hooks, xstate.",
           "Database/GraphQL modeling backed by MongoDB and DynamoDB.",
-          "Built marketing website using Gatsby (React static site generator), theme-ui, and Amplify.",
-          "App and website DevOps with AWS, Zeit, Netlify, and Shell scripts.",
-          "Heavily leveraged state charts (xstate) in all aspects of the codebase; state chart blogging.",
-          "Responsibilities include leading a small, remote team of developers; all architecture; all documentation."
+          "Built marketing website using Gatsby (React static site generator)",
+          "App and website DevOps with AWS, Zeit, Netlify, and Shell scripts."
         ]
       },
       {

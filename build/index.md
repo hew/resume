@@ -8,23 +8,25 @@ Email: matt@hew.tools
 
 Web: https://hew.tools
 
-Five years experience building for the web. 2x founder.
+Five years experience building for the web & mobile.
 
 ## SKILLS
 
 
 ## EMPLOYMENT
 
-### *Co-founder/CTO*, [Palate](TBD) (2019-01 — Present)
+### *Full Stack Developer*, [Cash Live](https://cash.live) (2019-08 — Present)
 
-Early-stage company in the food tech space. Stealth mode.
-  - Technical lead of a small team of remote developers.
-  - Node-based server and admin dashboard.
-  - React Native front end: iOS and Android.
+Cash Live is a free, daily, real-time poker game anyone can play.
+  - Built a (custom) CMS system for game operators, primarily using Next.js & Prisma.
+  - Built a dashboard for the game server, primarily using GRPC (Web), Next.js and xstate.
+  - Early stage role that required navigating ambiguity and clear communication.
+  - Worked as part of a small team of fully remote developers
 
-### *Co-founder/CTO*, [Startup League](https://startupleague.io) (2018-01 — Present)
+### *Technical Co-founder*, [Startup League](https://startupleague.io) (2018-01 — 2019-08)
 
 Early-stage company, launched out of StartED Incubator at NYU.
+  - Lead a small, remote team of developers.
   - Built a real-time game server in Node, leveraging the Feathers framework.
   - Built corresponding (typed) front end in Reasonml, using React Native, Hooks API.
   - Built another real-time game server on AWS AppSync/Lambda/Cognito.
@@ -32,10 +34,8 @@ Early-stage company, launched out of StartED Incubator at NYU.
   - Front end theming, custom theme-ui integration into React Native.
   - React state architecture using Context, Hooks, xstate.
   - Database/GraphQL modeling backed by MongoDB and DynamoDB.
-  - Built marketing website using Gatsby (React static site generator), theme-ui, and Amplify.
+  - Built marketing website using Gatsby (React static site generator)
   - App and website DevOps with AWS, Zeit, Netlify, and Shell scripts.
-  - Heavily leveraged state charts (xstate) in all aspects of the codebase; state chart blogging.
-  - Responsibilities include leading a small, remote team of developers; all architecture; all documentation.
 
 ### *Full Stack Developer*, [Klue](https://klue.com) (2017-09 — 2018-02)
 
