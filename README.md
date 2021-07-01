@@ -10,7 +10,7 @@ This is my professional resume. It conforms to the [fresh standard](https://gith
 ## Usage
 
 ```
-# Get my theme (optional)
+# Get my theme
 git clone git@github.com:hew/fresh-resume-theme.git
 ```
 

@@ -31,10 +31,10 @@
       "startDate": "2019-08",
       "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
       "highlights": [
-        "Early stage role. Successfully navigating ambiguity.",
-        "Built a custom CMS for admininstrative users.",
-        "Built a real-time GRPC dashboard for the game server.",
-        "Worked as part of a small team of fully remote developers."
+        "Worked as part of a small team of fully remote developers.",
+        "Built a real-time GRPC dashboard for the game server with next.js.",
+        "Built a fully-featured companion CMS.",
+        "Early stage role. Floated around the stack."
       ]
     },
     {
@@ -45,10 +45,10 @@
       "endDate": "2019-08",
       "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
       "highlights": [
-        "Inception role. Contributed to product design and brand positioning.",
         "Lead a small, remote team of developers.",
-        "Built multiple game servers and game clients using Javascript-based tech stacks (in conjunction with AWS)",
-        "Database modeling backed by MongoDB and DynamoDB."
+        "Built multiple game servers and web / mobile / universal game clients.",
+        "Database modeling backed by MongoDB and DynamoDB.",
+        "Inception role. Contributed to product design and brand positioning."
       ]
     },
     {
@@ -60,10 +60,10 @@
       "summary": "Klue is competitive business intelligence for sales professionals.",
       "highlights": [
         "Built an embedded Salesforce application that interfaced with the Klue API.",
-        "Built a proxy server in Node to handle Salesforce authentication.",
-        "Build various client-facing product features, including product onboarding.",
+        "Built a Salesforce authentication proxy server using node.js.",
+        "Built various client-facing product features, including initial product onboarding.",
         "Lead the transition from the Browserify to Webpack, E2E testing with Cypress",
-        "Keen contributor to documentation, knowledge shares"
+        "Keen contributor to documentation and knowledge shares."
       ]
     },
     {
@@ -74,9 +74,9 @@
       "endDate": "2016-06",
       "summary": "Creative web design and development for an advertising/digital agency.",
       "highlights": [
-        "Experience building high performance web apps, websites, and static pages using React.",
-        "Pushed the boundaries of performance, theme architecture, and client/user expectation.",
-        "Basic iOS app experience with React Native."
+        "Built various high performance web apps and static (landing) pages using React.",
+        "Built a couple low-level React animation tools, that were eventually open-sourced.",
+        "iOS app development experience with React Native."
       ]
     },
     {
