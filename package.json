@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx hackmyresume build career.json TO build/resume.html build/resume.json -t ./fresh-resume-theme",
+    "analyze": "npx hackmyresume analyze career.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hew/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hew/resume/issues"
+  },
+  "homepage": "https://github.com/hew/resume#readme"
+}

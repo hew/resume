@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "label": "Web & Mobile Developer",
+    "characterClass": "Programmer",
+    "quote": "I like hummus.",
+    "website": "https://tahini.dev",
+    "email": "mathujones@gmail.com",
+    "phone": "",
+    "other": [],
+    "name": "Matthew Jones",
+    "summary": "Six years experience building for the web & mobile.",
+    "picture": "matt.png",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "hew",
+        "url": "https://github.com/hew"
+      },
+      {
+        "network": "Twitter",
+        "username": "tahini",
+        "url": "https://twitter.com/tahini"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cash Live",
+      "website": "https://cash.live",
+      "position": "Full Stack Developer",
+      "startDate": "2019-08",
+      "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
+      "highlights": [
+        "Early stage role. Successfully navigating ambiguity.",
+        "Built a custom CMS for admininstrative users.",
+        "Built a real-time GRPC dashboard for the game server.",
+        "Worked as part of a small team of fully remote developers."
+      ]
+    },
+    {
+      "company": "Startup League",
+      "website": "https://startupleague.io",
+      "position": "Technical Co-founder",
+      "startDate": "2018-01",
+      "endDate": "2019-08",
+      "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
+      "highlights": [
+        "Inception role. Contributed to product design and brand positioning.",
+        "Lead a small, remote team of developers.",
+        "Built multiple game servers and game clients using Javascript-based tech stacks (in conjunction with AWS)",
+        "Database modeling backed by MongoDB and DynamoDB."
+      ]
+    },
+    {
+      "company": "Klue",
+      "website": "https://klue.com",
+      "position": "Full Stack Developer",
+      "startDate": "2017-09",
+      "endDate": "2018-02",
+      "summary": "Klue is competitive business intelligence for sales professionals.",
+      "highlights": [
+        "Built an embedded Salesforce application that interfaced with the Klue API.",
+        "Built a proxy server in Node to handle Salesforce authentication.",
+        "Build various client-facing product features, including product onboarding.",
+        "Lead the transition from the Browserify to Webpack, E2E testing with Cypress",
+        "Keen contributor to documentation, knowledge shares"
+      ]
+    },
+    {
+      "company": "Dead Famous",
+      "website": "https://deadfamous.ca",
+      "position": "Front End Developer",
+      "startDate": "2015-05",
+      "endDate": "2016-06",
+      "summary": "Creative web design and development for an advertising/digital agency.",
+      "highlights": [
+        "Experience building high performance web apps, websites, and static pages using React.",
+        "Pushed the boundaries of performance, theme architecture, and client/user expectation.",
+        "Basic iOS app experience with React Native."
+      ]
+    },
+    {
+      "company": "Cedars Online",
+      "position": "Digital Marketer",
+      "startDate": "2013-04",
+      "endDate": "2015-05",
+      "summary": "Search engine optimization and content marketing for the gaming industry.",
+      "highlights": [
+        "Primary copywriter on email marketing campaigns netting millions in revenue.",
+        "Heavy emphasis on technical ability and knowledge of web technology (hacks).",
+        "Proven and repeatable search engine optimization success for valuable keywords.",
+        "Conversion rate optimization for landing pages receiving 30k+ monthly visits.",
+        "Solo designed and built many websites."
+      ]
+    },
+    {
+      "company": "Teach Away",
+      "website": "http://www.teachaway.com",
+      "position": "Copywriter",
+      "startDate": "2012-04",
+      "endDate": "2013-04",
+      "summary": "Copywriter and digital marketer with a focus on international audiences.",
+      "highlights": [
+        "Prolific blogger and content marketing strategist.",
+        "Web development for teachaway.com and satellite properties.",
+        "Landing page conversion rate optimization and search engine optimization.",
+        "Responsible for rapid growth on Facebook by utilizing 'content gates'."
+      ]
+    },
+    {
+      "company": "First Pet Naturals",
+      "website": "http://www.1stpetnaturals.com",
+      "position": "Copywriter",
+      "startDate": "2011-11",
+      "endDate": "2012-04",
+      "summary": "Copywriter in a technical role, helping to build out the emails and webpages.",
+      "highlights": [
+        "Lead copywriting for blogs, long form content, and press releases.",
+        "Basic web development for website, blog, and HTML newsletters/emails.",
+        "Proven sucess with search engine marketing and optimization campaigns."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dalhousie University",
+      "gpa": "",
+      "courses": [],
+      "startDate": "2005",
+      "endDate": "2009"
+    },
+    {
+      "institution": "UBC",
+      "gpa": "",
+      "courses": [],
+      "startDate": "2013",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [],
+  "interests": [],
+  "references": 0,
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ]
+}

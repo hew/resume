@@ -71,9 +71,9 @@ main {
   font-size: 10px;
   min-width: 90px;
   padding: 0.5em 0.25em;
-  background-color: var(--gray); 
+  border: 1px solid var(--purple); 
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: var(--gray);
 }

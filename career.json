@@ -5,15 +5,15 @@
     "version": "0.5.0"
   },
   "info": {
-    "label": "Front End / Mobile Developer",
+    "label": "Web & Mobile Developer",
     "characterClass": "Programmer",
-    "brief": "Five years experience building for the web & mobile.",
+    "brief": "Six years experience building for the web & mobile.",
     "image": "matt.png",
     "quote": "I like hummus."
   },
   "contact": {
-    "website": "https://hew.tools",
-    "email": "matt@hew.tools",
+    "website": "https://tahini.dev",
+    "email": "mathujones@gmail.com",
     "phone": "",
     "other": []
   },
@@ -34,27 +34,25 @@
   ],
   "proficiencies": [
       {
-        "name": "API",
-        "level": "intermediate",
-        "skills": ["REST", "GraphQL", "Socket", "Lambda"]
+        "name": "Languages",
+        "skills": ["Bash", "CSS", "HTML", "Typescript", "Swift", "OCaml"]
       },
       {
         "name": "Database",
-        "level": "intermediate",
-        "skills": ["DynamoDB", "MySQL", "MongoDB", "Embedded", "PostgreSQL"]
-      },
-      {
-        "name": "Languages",
-        "level": "expert",
-        "skills": ["CSS", "HTML", "PHP", "Typescript/Node", "Swift", "Reasonml/OCaml", "Rust"]
+        "skills": ["DynamoDB", "MySQL", "MongoDB", "PostgreSQL"]
       },
       {
         "name": "Libs + Frameworks",
-        "level": "intermediate",
-        "skills": ["Gatsby", "React (Native)", "Redux", "Rails", "serverless", "xstate"]
+        "skills": ["Gatsby", "next.js", "React (Native)", "Redux", "Rails", "xstate"]
       }
   ],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Crossbreed (iOS)",
+      "description": "Crossbreed allows you to search and learn the parent genetics of cannabis strains.",
+      "href": "https://crossbreed.app"
+    }
+  ],
   "social": [
     {
       "label": "GitHub",
@@ -71,7 +69,7 @@
     }
   ],
   "employment": {
-    "summary": "4 years product software development.",
+    "summary": "6 years software development.",
     "history": [
       {
         "employer": "Cash Live",
@@ -81,57 +79,51 @@
         "start": "2019-08",
         "keywords": ["Next.js", "Typescript", "GRPC", "xstate"],
         "highlights": [
-           "Built a (custom) CMS system for game operators, primarily using Next.js & Prisma.",
-           "Built a dashboard for the game server, primarily using GRPC (Web), Next.js and xstate.",
-           "Early stage role that required navigating ambiguity and clear communication.",
-           "Worked as part of a small team of fully remote developers"
+           "Early stage role. Successfully navigating ambiguity.",
+           "Built a custom CMS for admininstrative users.",
+           "Built a real-time GRPC dashboard for the game server.",
+           "Worked as part of a small team of fully remote developers."
         ]
       },
       {
         "employer": "Startup League",
         "url": "https://startupleague.io",
         "position": "Technical Co-founder",
-        "summary": "Early-stage company, launched out of StartED Incubator at NYU.",
+        "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
         "start": "2018-01",
         "end": "2019-08",
-        "keywords": ["AWS", "Gatsby", "Node", "Feathers", "React", "React Native", "Reasonml"],
+        "keywords": ["AWS", "Gatsby", "Node", "React Native", "Reasonml"],
         "highlights": [
+          "Inception role. Contributed to product design and brand positioning.",
           "Lead a small, remote team of developers.",
-          "Built a real-time game server in Node, leveraging the Feathers framework.",
-          "Built corresponding (typed) front end in Reasonml, using React Native, Hooks API.",
-          "Built another real-time game server on AWS AppSync/Lambda/Cognito.",
-          "Built corresponding front end in Javascript, using React Native, Hooks API.",
-          "Front end theming, custom theme-ui integration into React Native.",
-          "React state architecture using Context, Hooks, xstate.",
-          "Database/GraphQL modeling backed by MongoDB and DynamoDB.",
-          "Built marketing website using Gatsby (React static site generator)",
-          "App and website DevOps with AWS, Zeit, Netlify, and Shell scripts."
+          "Built multiple game servers and game clients using Javascript-based tech stacks (in conjunction with AWS)",
+          "Database modeling backed by MongoDB and DynamoDB."
         ]
       },
       {
         "employer": "Klue",
         "url": "https://klue.com",
         "position": "Full Stack Developer",
-        "summary": "Early-stage company; full-stack role.",
+        "summary": "Klue is competitive business intelligence for sales professionals.",
         "start": "2017-09",
         "end": "2018-02",
-        "keywords": ["Javascript", "ML", "Ruby", "React", "Rails", "Webpack"],
+        "keywords": ["Ruby", "React", "Rails", "Webpack"],
         "highlights": [
-          "Built an embedded Salesforce application using React which interfaced with the Klue API from Salesforce.",
+          "Built an embedded Salesforce application that interfaced with the Klue API.",
           "Built a proxy server in Node to handle Salesforce authentication.",
-          "Implemented various client-facing product features, including the product onboarding.",
-          "Lead the transition from the Browserify to Webpack for the primary Klue application.",
-          "Unit testing with Airbnb's Enzyme unit testing framework."
+          "Build various client-facing product features, including product onboarding.",
+          "Lead the transition from the Browserify to Webpack, E2E testing with Cypress",
+          "Keen contributor to documentation, knowledge shares"
         ]
       },
       {
         "employer": "Dead Famous",
         "url": "https://deadfamous.ca",
         "position": "Front End Developer",
-        "summary": "Creative web design and development for an advertising/digital agency. Emphasis on Javascript-powered animations and dynamic web experiences.",
+        "summary": "Creative web design and development for an advertising/digital agency.",
         "start": "2015-05",
         "end": "2016-06",
-        "keywords": ["GSAP", "React", "React Motion", "Redux", "Wordpress"],
+        "keywords": ["GSAP", "React Motion", "Redux", "Wordpress"],
         "highlights": [
           "Experience building high performance web apps, websites, and static pages using React.",
           "Pushed the boundaries of performance, theme architecture, and client/user expectation.",
