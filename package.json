@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "build": "npx hackmyresume build career.json TO build/resume.html build/resume.json -t ./fresh-resume-theme",
+    "build": "npx hackmyresume build career.json TO public/resume.html public/resume.json -t ./fresh-resume-theme",
     "analyze": "npx hackmyresume analyze career.json"
   },
   "repository": {

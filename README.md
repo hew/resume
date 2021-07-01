@@ -7,12 +7,7 @@ Link: https://hew.github.io/resume
 This is my professional resume. It conforms to the [fresh standard](https://github.com/fresh-standard/fresh-resume-schema), and uses
 [a fresh theme](https://github.com/hew/fresh-resume-theme) that I built.
 
-## Installation
-
-```
-# Install CLI tool
-npm i -g hackmyresume
-```
+## Usage
 
 ```
 # Get my theme (optional)
@@ -20,13 +15,11 @@ git clone git@github.com:hew/fresh-resume-theme.git
 ```
 
 ```
-## Use my theme
-hackmyresume build resume.json TO public/index.all -t [path/to/theme]
-
-## Use a build-in theme
-hackmyresume build resume.json TO public/index.all -t modern
+## Build 
+yarn run build
 ```
 
-## Notes
-
-* The colors, which are defined by CSS variables, will not work on IE 11.
+```
+## Analyze 
+yarn run analyze
+```
