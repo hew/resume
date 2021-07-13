@@ -1,149 +1,238 @@
 {
-  "basics": {
+  "name": "Matthew Jones",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.5.0"
+  },
+  "info": {
     "label": "Web & Mobile Developer",
     "characterClass": "Programmer",
-    "quote": "I like hummus.",
+    "brief": "Six years experience building for the web & mobile.",
+    "image": "matt.png",
+    "quote": "I like hummus."
+  },
+  "contact": {
     "website": "https://tahini.dev",
     "email": "mathujones@gmail.com",
     "phone": "",
-    "other": [],
-    "name": "Matthew Jones",
-    "summary": "Six years experience building for the web & mobile.",
-    "picture": "matt.png",
-    "profiles": [
+    "other": []
+  },
+  "location": {
+    "address": "",
+    "city": "Vancouver",
+    "region": "BC",
+    "code": "",
+    "country": "CA"
+  },
+  "skills": [
+    {"name": "Technical founder of SoftServe."},
+    {"name": "Lead developer for Klue's Salesforce integrations."},
+    {"name": "Lead developer for Cash Live's dashboard and CMS."},
+    {"name": "Expert at building stable, adaptive, scalable UIs."},
+    {"name": "Proficient with the command line and linux/unix environments."},
+    {"name": "Generalist mentality. Enjoy working the whole stack."},
+    {"name": "Active open sourcerer and blogger."}
+  ],
+  "proficiencies": [
       {
-        "network": "GitHub",
-        "username": "hew",
-        "url": "https://github.com/hew"
+        "name": "Languages",
+        "skills": ["Bash", "CSS", "HTML", "Typescript", "Swift", "Go", "OCaml"]
       },
       {
-        "network": "Twitter",
-        "username": "tahini",
-        "url": "https://twitter.com/tahini"
+        "name": "Database",
+        "skills": ["DynamoDB", "MySQL", "MongoDB", "PostgreSQL"]
+      },
+      {
+        "name": "Libs + Frameworks",
+        "skills": ["Gatsby", "GRPC", "next.js", "React (Native)", "Redux", "Rails", "xstate"]
+      }
+  ],
+  "projects": [
+    {
+      "name": "Crossbreed (iOS)",
+      "description": "Crossbreed allows you to search and learn the parent genetics of cannabis strains.",
+      "href": "https://crossbreed.app"
+    }
+  ],
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "hew",
+      "url": "https://github.com/hew"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "tahini",
+      "url": "https://twitter.com/tahini"
+    }
+  ],
+  "employment": {
+    "summary": "6 years software development.",
+    "history": [
+      {
+        "employer": "Cash Live",
+        "url": "https://cash.live",
+        "position": "Full Stack Developer",
+        "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
+        "start": "2019-08",
+        "keywords": ["Next.js", "Typescript", "GRPC", "xstate"],
+        "highlights": [
+           "Worked as part of a small team of fully remote developers.",
+           "Built a real-time GRPC dashboard for the game server with next.js.",
+           "Built a fully-featured companion CMS.",
+           "Early stage role. Floated around the stack."
+        ]
+      },
+      {
+        "employer": "Startup League",
+        "url": "https://startupleague.io",
+        "position": "Technical Co-founder",
+        "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
+        "start": "2018-01",
+        "end": "2019-08",
+        "keywords": ["AWS", "Gatsby", "Node", "React Native", "Reasonml"],
+        "highlights": [
+          "Lead a small, remote team of developers.",
+          "Built multiple game servers and web / mobile / universal game clients.",
+          "Database modeling backed by MongoDB and DynamoDB.",
+          "Inception role. Contributed to product design and brand positioning."
+        ]
+      },
+      {
+        "employer": "Klue",
+        "url": "https://klue.com",
+        "position": "Full Stack Developer",
+        "summary": "Klue is competitive business intelligence for sales professionals.",
+        "start": "2017-09",
+        "end": "2018-02",
+        "keywords": ["Go", "Node", "Ruby", "React", "Rails", "Webpack"],
+        "highlights": [
+          "Built an embedded Salesforce application that interfaced with the Klue API.",
+          "Built a Salesforce authentication proxy server using node.js.",
+          "Built various client-facing product features, including initial product onboarding.",
+          "Lead the transition from the Browserify to Webpack, E2E testing with Cypress",
+          "Keen contributor to documentation and knowledge shares."
+        ]
+      },
+      {
+        "employer": "Dead Famous",
+        "url": "https://deadfamous.ca",
+        "position": "Front End Developer",
+        "summary": "Creative web design and development for an advertising/digital agency.",
+        "start": "2015-05",
+        "end": "2016-06",
+        "keywords": ["GSAP", "React Motion", "Redux", "Wordpress"],
+        "highlights": [
+          "Built various high performance web apps and static (landing) pages using React.",
+          "Built a couple low-level React animation tools, that were eventually open-sourced.",
+          "iOS app development experience with React Native."
+        ]
+      },
+      {
+        "employer": "Cedars Online",
+        "position": "Digital Marketer",
+        "summary": "Search engine optimization and content marketing for the gaming industry.",
+        "start": "2013-04",
+        "end": "2015-05",
+        "keywords": ["SEO", "SEM", "Black Hat", "HTML Emails"],
+        "highlights": [
+          "Primary copywriter on email marketing campaigns netting millions in revenue.",
+          "Heavy emphasis on technical ability and knowledge of web technology (hacks).",
+          "Proven and repeatable search engine optimization success for valuable keywords.",
+          "Conversion rate optimization for landing pages receiving 30k+ monthly visits.",
+          "Solo designed and built many websites."
+        ]
+      },
+      {
+        "employer": "Teach Away",
+        "position": "Copywriter",
+        "url": "http://www.teachaway.com",
+        "start": "2012-04",
+        "end": "2013-04",
+        "summary": "Copywriter and digital marketer with a focus on international audiences.",
+        "keywords": ["Copywriting", "SEO", "SEM"],
+        "highlights": [
+          "Prolific blogger and content marketing strategist.",
+          "Web development for teachaway.com and satellite properties.",
+          "Landing page conversion rate optimization and search engine optimization.",
+          "Responsible for rapid growth on Facebook by utilizing 'content gates'."
+        ]
+      },
+      {
+        "employer": "First Pet Naturals",
+        "url": "http://www.1stpetnaturals.com",
+        "position": "Copywriter",
+        "summary": "Copywriter in a technical role, helping to build out the emails and webpages.",
+        "start": "2011-11",
+        "end": "2012-04",
+        "keywords": ["Copywriting", "SEO", "SEM"],
+        "highlights": [
+          "Lead copywriting for blogs, long form content, and press releases.",
+          "Basic web development for website, blog, and HTML newsletters/emails.",
+          "Proven sucess with search engine marketing and optimization campaigns."
+        ]
       }
     ]
   },
-  "work": [
-    {
-      "company": "Cash Live",
-      "website": "https://cash.live",
-      "position": "Full Stack Developer",
-      "startDate": "2019-08",
-      "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
-      "highlights": [
-        "Worked as part of a small team of fully remote developers.",
-        "Built a real-time GRPC dashboard for the game server with next.js.",
-        "Built a fully-featured companion CMS.",
-        "Early stage role. Floated around the stack."
-      ]
-    },
-    {
-      "company": "Startup League",
-      "website": "https://startupleague.io",
-      "position": "Technical Co-founder",
-      "startDate": "2018-01",
-      "endDate": "2019-08",
-      "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
-      "highlights": [
-        "Lead a small, remote team of developers.",
-        "Built multiple game servers and web / mobile / universal game clients.",
-        "Database modeling backed by MongoDB and DynamoDB.",
-        "Inception role. Contributed to product design and brand positioning."
-      ]
-    },
-    {
-      "company": "Klue",
-      "website": "https://klue.com",
-      "position": "Full Stack Developer",
-      "startDate": "2017-09",
-      "endDate": "2018-02",
-      "summary": "Klue is competitive business intelligence for sales professionals.",
-      "highlights": [
-        "Built an embedded Salesforce application that interfaced with the Klue API.",
-        "Built a Salesforce authentication proxy server using node.js.",
-        "Built various client-facing product features, including initial product onboarding.",
-        "Lead the transition from the Browserify to Webpack, E2E testing with Cypress",
-        "Keen contributor to documentation and knowledge shares."
-      ]
-    },
-    {
-      "company": "Dead Famous",
-      "website": "https://deadfamous.ca",
-      "position": "Front End Developer",
-      "startDate": "2015-05",
-      "endDate": "2016-06",
-      "summary": "Creative web design and development for an advertising/digital agency.",
-      "highlights": [
-        "Built various high performance web apps and static (landing) pages using React.",
-        "Built a couple low-level React animation tools, that were eventually open-sourced.",
-        "iOS app development experience with React Native."
-      ]
-    },
-    {
-      "company": "Cedars Online",
-      "position": "Digital Marketer",
-      "startDate": "2013-04",
-      "endDate": "2015-05",
-      "summary": "Search engine optimization and content marketing for the gaming industry.",
-      "highlights": [
-        "Primary copywriter on email marketing campaigns netting millions in revenue.",
-        "Heavy emphasis on technical ability and knowledge of web technology (hacks).",
-        "Proven and repeatable search engine optimization success for valuable keywords.",
-        "Conversion rate optimization for landing pages receiving 30k+ monthly visits.",
-        "Solo designed and built many websites."
-      ]
-    },
-    {
-      "company": "Teach Away",
-      "website": "http://www.teachaway.com",
-      "position": "Copywriter",
-      "startDate": "2012-04",
-      "endDate": "2013-04",
-      "summary": "Copywriter and digital marketer with a focus on international audiences.",
-      "highlights": [
-        "Prolific blogger and content marketing strategist.",
-        "Web development for teachaway.com and satellite properties.",
-        "Landing page conversion rate optimization and search engine optimization.",
-        "Responsible for rapid growth on Facebook by utilizing 'content gates'."
-      ]
-    },
-    {
-      "company": "First Pet Naturals",
-      "website": "http://www.1stpetnaturals.com",
-      "position": "Copywriter",
-      "startDate": "2011-11",
-      "endDate": "2012-04",
-      "summary": "Copywriter in a technical role, helping to build out the emails and webpages.",
-      "highlights": [
-        "Lead copywriting for blogs, long form content, and press releases.",
-        "Basic web development for website, blog, and HTML newsletters/emails.",
-        "Proven sucess with search engine marketing and optimization campaigns."
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Dalhousie University",
-      "gpa": "",
-      "courses": [],
-      "startDate": "2005",
-      "endDate": "2009"
-    },
-    {
-      "institution": "UBC",
-      "gpa": "",
-      "courses": [],
-      "startDate": "2013",
-      "endDate": "2013"
-    }
-  ],
-  "skills": [],
-  "interests": [],
-  "references": 0,
+  "education": {
+    "summary": "",
+    "level": "degree",
+    "degree": "Bachelor of Arts in Philosophy",
+    "history": [
+      {
+        "institution": "Dalhousie University",
+        "title": "Bachelor of Arts",
+        "url": "https://www.dalhousie.ca/",
+        "start": "2005",
+        "end": "2009",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
+      },
+      {
+        "institution": "UBC",
+        "title": "Certificate in Computer Programming",
+        "url": "https://ubc.ca",
+        "start": "2013",
+        "end": "2013",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
+      }
+    ]
+  },
+  "affiliation": {
+    "summary": "",
+    "history": [
+      {
+        "role": "Volunteer",
+        "position": "Teacher",
+        "organization": "Leadies Learning Code",
+        "url": "http://ladieslearningcode.com",
+        "start": "2015-01",
+        "summary": "Digital Literacy for Women and Youth. Teaching coding and web technology.",
+        "highlights": []
+      }
+    ]
+  },
+  "service": {},
+  "samples": [],
+  "writing": [],
   "languages": [
     {
       "language": "English",
       "level": "Native"
     }
-  ]
+  ],
+  "reading": [],
+  "speaking": [],
+  "recognition": [],
+  "references": [],
+  "testimonials": [],
+  "extracurricular": [],
+  "governance": [],
+  "interests": []
 }

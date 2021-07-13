@@ -25,16 +25,18 @@
     "country": "CA"
   },
   "skills": [
+    {"name": "Technical founder of SoftServe."},
+    {"name": "Lead developer for Klue's Salesforce integrations."},
+    {"name": "Lead developer for Cash Live's dashboard and CMS."},
     {"name": "Expert at building stable, adaptive, scalable UIs."},
-    {"name": "React early adopter."},
-    {"name": "Technical founder of a company in the education space."},
-    {"name": "Generalist mentality; enjoy working the entire stack."},
+    {"name": "Proficient with the command line and linux/unix environments."},
+    {"name": "Generalist mentality. Enjoy working the whole stack."},
     {"name": "Active open sourcerer and blogger."}
   ],
   "proficiencies": [
       {
         "name": "Languages",
-        "skills": ["Bash", "CSS", "HTML", "Typescript", "Swift", "OCaml"]
+        "skills": ["Bash", "CSS", "HTML", "Typescript", "Swift", "Go", "OCaml"]
       },
       {
         "name": "Database",
@@ -42,7 +44,7 @@
       },
       {
         "name": "Libs + Frameworks",
-        "skills": ["Gatsby", "next.js", "React (Native)", "Redux", "Rails", "xstate"]
+        "skills": ["Gatsby", "GRPC", "next.js", "React (Native)", "Redux", "Rails", "xstate"]
       }
   ],
   "projects": [
