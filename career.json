@@ -36,7 +36,7 @@
   "proficiencies": [
       {
         "name": "Languages",
-        "skills": ["Bash", "CSS", "HTML", "Typescript", "Swift", "Go", "OCaml"]
+        "skills": ["Bash", "CSS", "HTML", "Typescript", "Solidity", "Swift", "OCaml"]
       },
       {
         "name": "Database",
@@ -44,16 +44,10 @@
       },
       {
         "name": "Libs + Frameworks",
-        "skills": ["Gatsby", "GRPC", "next.js", "React (Native)", "Redux", "Rails", "xstate"]
+        "skills": ["Gatsby", "GRPC", "next.js", "React (Native)", "Redux", "Remix", "Rails", "xstate"]
       }
   ],
-  "projects": [
-    {
-      "name": "Crossbreed (iOS)",
-      "description": "Crossbreed allows you to search and learn the parent genetics of cannabis strains.",
-      "href": "https://crossbreed.app"
-    }
-  ],
+  "projects": [],
   "social": [
     {
       "label": "GitHub",
