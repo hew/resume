@@ -72,19 +72,19 @@
         "position": "Full Stack Developer",
         "summary": "Cash Live is a free, daily, real-time poker game anyone can play.",
         "start": "2019-08",
-        "keywords": ["Next.js", "Typescript", "GRPC", "xstate"],
+        "keywords": ["Next.js", "React", "Typescript", "GRPC", "xstate"],
         "highlights": [
            "Worked as part of a small team of fully remote developers.",
-           "Built a real-time GRPC dashboard for the game server with next.js.",
-           "Built a fully-featured companion CMS.",
+           "Built a real-time GRPC dashboard for the game server with React (next.js).",
+           "Built a fully-featured companion CMS with React (next.js).",
            "Early stage role. Floated around the stack."
         ]
       },
       {
-        "employer": "Startup League",
-        "url": "https://startupleague.io",
+        "employer": "SoftServe",
+        "url": "https://www.linkedin.com/company/getsoftserve/",
         "position": "Technical Co-founder",
-        "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
+        "summary": "SoftServe is a game-based learning and assessment platform for soft skills",
         "start": "2018-01",
         "end": "2019-08",
         "keywords": ["AWS", "Gatsby", "Node", "React Native", "Reasonml"],
@@ -100,7 +100,7 @@
         "url": "https://klue.com",
         "position": "Full Stack Developer",
         "summary": "Klue is competitive business intelligence for sales professionals.",
-        "start": "2017-09",
+        "start": "2016-09",
         "end": "2018-02",
         "keywords": ["Go", "Node", "Ruby", "React", "Rails", "Webpack"],
         "highlights": [
