@@ -81,10 +81,10 @@
         ]
       },
       {
-        "employer": "Startup League",
-        "url": "https://startupleague.io",
+        "employer": "SoftServe",
+        "url": "https://getsoftserve.com",
         "position": "Technical Co-founder",
-        "summary": "Empathy Games for High School Kids. launched out of StartED Incubator at NYU.",
+        "summary": "SoftServe is a game-based learning and assessment platform for soft skills",
         "start": "2018-01",
         "end": "2019-08",
         "keywords": ["AWS", "Gatsby", "Node", "React Native", "Reasonml"],
